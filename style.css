@@ -1,0 +1,14 @@
+.title{
+    background: green;
+    color:white;
+}
+.description{
+    background: yellow;
+    color: black;
+}
+.bold{
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
